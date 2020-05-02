@@ -8,4 +8,4 @@ function repeat(string, times) {
 }
 
 const yeetParagraph = document.querySelector('p');
-yeetParagraph.textContent = repeat("swag", 5);
+//yeetParagraph.textContent = repeat("swag", 5);
