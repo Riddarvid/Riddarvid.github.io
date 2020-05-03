@@ -1,0 +1,24 @@
+html {
+    font-family: 'Comic Neue', cursive;
+    background-color: #09CDDA;
+}
+
+body {
+    background-color: white;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+}
+
+h1 {
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+}
+
+.main-image {
+    display: block;
+    margin: 0 auto;
+}
